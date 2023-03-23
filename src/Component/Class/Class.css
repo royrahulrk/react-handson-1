@@ -1,0 +1,16 @@
+.div-c{
+    width: 500px;
+    height: 220px;
+    border: 5px solid gray;
+    background: linear-gradient(90deg, hsla(341, 94%, 49%, 1) 0%, hsla(16, 90%, 77%, 1) 100%);
+    position: absolute;
+    left: 57rem;
+    top: 22rem;
+}
+.div-c-i{
+    position: relative;
+    left: 60px;
+    padding: 15px;
+    gap: 10px;
+    display: grid;
+}
